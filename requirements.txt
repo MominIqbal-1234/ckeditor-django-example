@@ -1,0 +1,2 @@
+django-ckeditor==6.7.1
+django==5.0.7
